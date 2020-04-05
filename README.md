@@ -1,2 +1,2 @@
-# Alternate-Solar-System
-A fun Solar System whose Sun grows constantly............
+# p5.play-boilerplate
+Boiler plate for p5.play
